@@ -9,7 +9,7 @@ return $config = array(
 		"amount_of_tweets" => 2,
 		"searcheduser" => '',
 		"url" => 'https://cdn.syndication.twimg.com/widgets/timelines/',
-		"widgetId" => "352385551384592386"
+		"widgetId" => ""
 	);
 
 ?>
