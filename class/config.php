@@ -7,7 +7,7 @@ return $config = array(
 		"avatar_required" => true,
 		"screenname_only" => true,
 		"amount_of_tweets" => 2,
-		"searcheduser" => 'thinkorchard',
+		"searcheduser" => '',
 		"url" => 'https://cdn.syndication.twimg.com/widgets/timelines/',
 		"widgetId" => "352385551384592386"
 	);
